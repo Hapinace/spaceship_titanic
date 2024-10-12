@@ -1,10 +1,11 @@
 # Machine Learning Personal Project: Spaceship Titanic
 A personal project aimed to demonstrate capabilities in Machine Learning
 
-Objective
+***Objective:***  
 The purpose of this project is to determine which passengers survived the Spaceship Titanic based on possible various factors that were recorded.
 
-Tools and Methods Used:
+### ***Tools and Methods Used:***  
+
 **Libraries:**
 
 - Pandas
