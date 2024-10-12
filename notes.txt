@@ -1,0 +1,11 @@
+Surface-level exploration
+Check/handle nulls
+    -> Anything transformative should be put in a function
+EDA
+Base model selection
+Tuning
+Feature Elimination
+Tuning
+Prediction
+
+TODO: Create boxplots for skewed data and subset for data without outliers
